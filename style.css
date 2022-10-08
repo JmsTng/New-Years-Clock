@@ -54,7 +54,7 @@ body {
 	height: 20vmin;
 	font-size: 6vmin;
 	text-align: center;
-	text-shadow: 0 13vmin 10em #000000;
+	text-shadow: 0 13vmin 1em #000000;
 }
 
 .anim {
